@@ -1,2 +1,1 @@
-Patika.dev SQL Dersi Ödevlerim
-Anıt Devrim Akdeniz
+Patika.dev SQL Homeworks
